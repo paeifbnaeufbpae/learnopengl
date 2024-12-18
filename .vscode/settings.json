@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.wasm": "wasm",
+    "*.rjs": "plaintext",
+    "iostream": "cpp",
+    "vector": "cpp",
+    "ostream": "cpp"
+  },
+  "C_Cpp.default.compilerPath": "/usr/bin/clang++"
+}
